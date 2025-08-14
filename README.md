@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Peter, and I'm a Java software developer interested in all things Java and Kotlin.
+
+- 🔭 I’m currently working on an online bookstore project: **"LitFlix"** — a Spring Boot–based REST API with JWT authentication, Liquibase migrations, and MapStruct mappings.
+- 🌱 I’m currently learning Docker, CI/CD, and cloud deployment to enhance my DevOps skills.
+- 👯 I’m looking to collaborate on **Java/Spring Boot web applications**, REST API development, and open-source backend projects.
+- 📫 How to reach me: **[mister.sokor@gmail.com](mailto:mister.sokor@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/peter-sokor-55204320b/) | [GitHub](https://github.com/misterSokor)
 
 <!--
 **misterSokor/misterSokor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
