@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Peter, and I'm a Java software developer interested in all things Java and Kotlin.
+My name is Peter
+I'm a Java software developer interested in all things Java and Kotlin.
 
 - 🔭 I’m currently working on an online bookstore project: **"LitFlix"** — a Spring Boot–based REST API with JWT authentication, Liquibase migrations, and MapStruct mappings.
 - 🌱 I’m currently learning Docker, CI/CD, and cloud deployment to enhance my DevOps skills.
